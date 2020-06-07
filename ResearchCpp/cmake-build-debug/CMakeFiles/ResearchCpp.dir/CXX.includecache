@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tester/CLionProjects/Research/ResearchCpp/Classes/temperature.cpp
+cstdio
+-
+temperature.h
+/home/tester/CLionProjects/Research/ResearchCpp/Classes/temperature.h
+
+/home/tester/CLionProjects/Research/ResearchCpp/Classes/temperature.h
+
+/home/tester/CLionProjects/Research/ResearchCpp/main.cpp
+cstdio
+-
+cstdlib
+-
+new
+-
+cwchar
+-
+string
+-
+iostream
+-
+Classes/temperature.h
+/home/tester/CLionProjects/Research/ResearchCpp/Classes/temperature.h
+

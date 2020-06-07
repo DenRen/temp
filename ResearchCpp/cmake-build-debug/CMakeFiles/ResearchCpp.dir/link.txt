@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ResearchCpp.dir/main.cpp.o CMakeFiles/ResearchCpp.dir/Vector.cpp.o CMakeFiles/ResearchCpp.dir/Classes/temperature.cpp.o CMakeFiles/ResearchCpp.dir/Classes/turbo.cpp.o  -o ResearchCpp 
